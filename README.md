@@ -12,7 +12,7 @@ I’m looking to collaborate on VideoGame Projects.
 # social media
 
 [![Yotutube](https://img.shields.io/badge/You-tube-red.svg)](https://www.youtube.com/user/emanvidmaker)
-[![Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-red.svg)](https://www.instagram.com/emanvidmake/)
+[![Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-green.svg)](https://www.instagram.com/emanvidmake/)
 [![itch.io](https://img.shields.io/badge/Play%20my%20games%20-On%20Itch.io-green.svg)](https://emanvidmaker.itch.io/)
 
 # ✨ Fun facts ✨
