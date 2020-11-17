@@ -7,7 +7,7 @@ I am a student game developer from Puerto Rico.
 🔭 I work on Unity and C# with Python on the side. 
 🌱 I’m currently learning javascript and Web develeopment.
 On the future I aspire to create a video game studio in Puerto Rico to help its economy.
-I’m looking to collaborate on VideoGame Projects.
+I’m looking to collaborate on Video Game Projects.
 
  
 # social media
