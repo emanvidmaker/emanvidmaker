@@ -1,5 +1,5 @@
 
-Im Emanuel Acosta Gonzlaez (he/him) 
+# Emanuel Acosta Gonzalez (aka Emanvidmaker) 
 
 [![itch.io](https://img.shields.io/badge/Play%20my%20games%20-On%20Itch.io-green.svg)](https://emanvidmaker.itch.io/)
 
