@@ -16,9 +16,10 @@ I’m looking to collaborate on Video Game Projects.
 [![itch.io](https://img.shields.io/badge/Play%20my%20games%20-On%20Itch.io-green.svg)](https://emanvidmaker.itch.io/)
 
 # Preferd Tools
- - Unity 
  - VS code
- 
+ - DotNet Core
+ - Unity
+  
 # ✨ Fun facts ✨
 - I started coding using GameMaker Studio at age 11
 - You can add fun facts to this by making a pull request [here](https://github.com/emanvidmaker/emanvidmaker/) 
