@@ -12,6 +12,7 @@ I’m looking to collaborate on Video Game Projects.
 
  
 # Social media
+[LinkedIn](https://www.linkedin.com/in/emanuel-acosta-gonzalez/)
 [![link tree](https://img.shields.io/badge/Link-Tree-green.svg)](https://linktr.ee/emanvidmaker)
 [![Yotutube](https://img.shields.io/badge/You-tube-red.svg)](https://www.youtube.com/user/emanvidmaker)
 [![Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-green.svg)](https://www.instagram.com/emanvidmake/)
