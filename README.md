@@ -17,7 +17,7 @@ I’m looking to collaborate on Video Game Projects.
 [![Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-green.svg)](https://www.instagram.com/emanvidmake/)
 [![itch.io](https://img.shields.io/badge/Play%20my%20games%20-On%20Itch.io-green.svg)](https://emanvidmaker.itch.io/)
 
-# Preferd coding tools
+# preferred coding tools
  - VS code
  - Visual Studio
  - DotNet Core
