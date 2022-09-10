@@ -5,7 +5,7 @@
 Email: emanvidmaker@gmail.com
 
 I am a student game developer from Puerto Rico.
-🔭 I work on Unity and C# with Python on the side. 
+🔭 I work with Unity and C# 
 🌱 I’m currently learning javascript and Web develeopment.
 On the future I aspire to create a video game studio in Puerto Rico to help its economy.
 I’m looking to collaborate on Video Game Projects.
@@ -18,7 +18,7 @@ I’m looking to collaborate on Video Game Projects.
 [![Instagram](https://img.shields.io/badge/Follow%20me%20on-Instagram-green.svg)](https://www.instagram.com/emanvidmake/)
 [![itch.io](https://img.shields.io/badge/Play%20my%20games%20-On%20Itch.io-green.svg)](https://emanvidmaker.itch.io/)
 
-# preferred coding tools
+# Preferred coding tools
  - VS code
  - Visual Studio
  - DotNet Core
