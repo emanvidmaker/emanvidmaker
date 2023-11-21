@@ -4,12 +4,8 @@
 [![itch.io](https://img.shields.io/badge/Play%20my%20games%20-On%20Itch.io-green.svg)](https://emanvidmaker.itch.io/)
 Email: emanvidmaker@gmail.com
 
-I am a student game developer from Puerto Rico.
-🔭 I work with Unity and C# 
-🌱 I’m currently learning javascript and Web develeopment.
-On the future I aspire to create a video game studio in Puerto Rico to help its economy.
-I’m looking to collaborate on Video Game Projects.
-
+I am a game developer from Puerto Rico.
+🔭 I work with Unity and C#, javascript and Web develeopment.
  
 # Social media
 [LinkedIn](https://www.linkedin.com/in/emanuel-acosta-gonzalez/)
